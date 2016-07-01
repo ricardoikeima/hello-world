@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+Created the readme-edits branch. Now learning how to make a commit
